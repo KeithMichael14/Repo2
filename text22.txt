@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2AE7-15BE
+
+ Directory of C:\Users\Keith Michael\Desktop\Dev Apps\Github\MyFolder
+
+05/18/2021  02:26 AM    <DIR>          .
+05/18/2021  02:26 AM    <DIR>          ..
+05/18/2021  12:04 AM                 0 index.html.txt
+05/18/2021  12:04 AM                15 test1.txt
+05/18/2021  12:48 AM               485 text2.txt
+05/18/2021  02:26 AM                 0 text22.txt
+               4 File(s)            500 bytes
+               2 Dir(s)  177,508,311,040 bytes free
